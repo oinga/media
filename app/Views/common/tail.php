@@ -4,10 +4,9 @@
       <a href="http://tinyurl.com/tbvalid" target="_blank">Content #1</a>
     </p>
 
-    <a href="http://youtu.be/zJahlKPCL9g" class="navbar-btn btn-danger btn pull-right">
-      <span class="glyphicon glyphicon-star"></span>Content #2</a>
+    <a href="" class="navbar-btn btn-danger btn pull-right">
+      <span class="glyphicon glyphicon-star"></span>Button ref</a>
   </div>
 </div>
 </body>
 </html>
-67
