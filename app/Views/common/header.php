@@ -2,7 +2,7 @@
 
   <div class="container">
 
-    <a href="#" class="navbar-brand">Ortiv's Media </a> <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse"></button>
+    <a href="#" class="navbar-brand">Ortiv's Media </a>
 
     <div class="collapse navbar-collapse navHeaderCollapse">
       <ul class="nav navbar-nav navbar-right">

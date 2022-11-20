@@ -28,10 +28,10 @@
         <?php echo $song->artist ?>
       </td>
       <td>
-        <?php echo $song->length ?>
+        <?php echo $song->title ?>
       </td>
       <td>
-        <?php echo $song->title ?>
+        <?php echo $song->length ?>
       </td>
       <td>
         <?php echo $song->album ?>
