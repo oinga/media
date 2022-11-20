@@ -6,7 +6,6 @@ use CodeIgniter\Model;
 
 class MusicModel extends Model
 {
-  protected $table = 'news';
   protected $db_music;
 
   protected $allowedFields = ['title', 'slug', 'body'];
