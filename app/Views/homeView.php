@@ -6,10 +6,10 @@
 
   <h2 class="text-center">
     Music
+    <?php echo $musicModal; ?>
   </h2>
 
 </div>
-
 <table id="music" class="table table-bordered">
   <thead>
     <tr>
