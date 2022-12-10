@@ -69,7 +69,7 @@ class MusicModel extends Model
                   <label class="input-group-text"
                   for="inputGroupSelect01">Artist</label>
                   <input class="form-control form-control-sm"
-                  type="text" placeholder="ex: Boyz II Men"
+                  type="text" placeholder="EX: Boyz II Men"
                   aria-label=".form-control-sm example">
                   </div>
 
@@ -102,7 +102,7 @@ class MusicModel extends Model
                   <label class="input-group-text"
                   for="inputGroupSelect01">Length</label>
                   <input class="text-sm-start" id="duration-input" type="text" required pattern="[0-9]{2}:[0-9]{2}:[0-9]{2}" value="00:00:00" title="Write a duration in the format hh:mm:ss class="form-control form-control-sm"
-                  type="text" placeholder="5" aria-label=".form-control-sm example" style="
+                  type="text" aria-label=".form-control-sm example" style="
                   font-size: small;">
                   <p style="
                   font-size: small;" id="output"></p>
@@ -133,8 +133,8 @@ class MusicModel extends Model
                 <div class="input-group mb-3">
                 <label class="input-group-text"
                 for="inputGroupSelect01">Vendor</label>
-                <input class="form-control form-control-sm"
-                type="text" aria-label=".form-control-sm example">
+                <input class="form-control form-control-sm text-uppercase"
+                type="text" aria-label=".form-control-sm example" placeholder="ex: APPLE MUSIC">
                 </div> 
 
                 <div class="input-group mb-3">
