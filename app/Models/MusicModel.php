@@ -48,10 +48,9 @@ class MusicModel extends Model
   public function musicModal()
   {
     $modal = '<div class="container">
-                  <h2>Basic Modal Example</h2>
                   <!-- Button trigger modal -->
                   <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                  Launch demo modal
+                  Add Music
                   </button>
                   <!-- Modal -->
                   <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
